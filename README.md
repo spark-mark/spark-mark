@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Spark, an interface designer and photographer!
+I'm Spark, a student studying Systems Design Engineering at the University of Waterloo!
+- Interface design
+- Photography 📸
 
 <!--
 **spark-mark/spark-mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
